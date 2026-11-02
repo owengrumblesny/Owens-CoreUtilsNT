@@ -1,0 +1,3 @@
+[submodule "src/WinGrep"]
+	path = src/WinGrep
+	url = https://github.com/owengrumblesny/WinGrep
